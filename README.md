@@ -9,7 +9,7 @@ It utilised a Raspberry Pi, temperature sensor, ultrasonic range sensor, water p
 The technologies used during the development of this mobile application included Xcode, Swift and Firebase. I learnt the basics of using the Xcode integrated development environment and how to use Swift to retrieve data from Firebase to present it in real-time in different graphical formats.
 
 ## Acknowledgements
-The circular progress bars on the home page were created using [MKMagneticProgress]( https://github.com/malkouz/MKMagneticProgress) and the graphs created in the data page used [ChartProgressBar](https://github.com/hadiidbouk/ChartProgressBar-iOS), 
+The circular progress bars on the home page were created using [MKMagneticProgress]( https://github.com/malkouz/MKMagneticProgress) and the graphs created in the data page used [ChartProgressBar](https://github.com/hadiidbouk/ChartProgressBar-iOS). 
 
 ## Screenshots
 
